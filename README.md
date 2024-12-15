@@ -1,5 +1,5 @@
 # Full Cycle 3.0
-## Desafio Docker - Go
+## Desafio Docker - Nginx/Node
 
 Esse desafio consiste em aplicar os conhecimentos de docker utilizando nginx como proxy reverso. Ao executar:
 ```
