@@ -23,6 +23,7 @@ services:
       dockerfile: Dockerfile
     volumes:
       - ./node:/usr/src/node
+      - /usr/src/node/node_modules
     networks:
       - node-network
     ports:
